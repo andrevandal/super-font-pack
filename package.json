@@ -1,0 +1,9 @@
+{
+  "name": "super-font-pack",
+  "version": "1.0.0",
+  "description": "Super package!",
+  "main": "index.js",
+  "repository": "git@github.com:derevandal/super-font-pack.git",
+  "author": "André Van Dal <derevandal@users.noreply.github.com>",
+  "license": "MIT"
+}
